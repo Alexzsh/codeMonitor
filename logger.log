@@ -1,0 +1,74 @@
+[32m[bot            ][testPost            ][INFO    ] None[0m
+[32m[bot            ][testPost            ][INFO    ] None[0m
+[32m[bot            ][testPost            ][INFO    ] None[0m
+[32m[bot            ][testPost            ][INFO    ] {'id': 1}[0m
+[32m[bot            ][testPost            ][INFO    ] {'id': 1}[0m
+[32m[bot            ][testPost            ][INFO    ] {'id': 1}[0m
+[32m[bot            ][testPost            ][INFO    ] {'id': 1}[0m
+[32m[bot            ][testPost            ][INFO    ] {'id': 1}[0m
+[33m[bot            ][error               ][WARNING ] Update "None" caused error "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running (409)"[0m
+[32m[bot            ][testPost            ][INFO    ] {'id': 1}[0m
+[33m[bot            ][error               ][WARNING ] Update "None" caused error "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running (409)"[0m
+[33m[bot            ][error               ][WARNING ] Update "None" caused error "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running (409)"[0m
+[33m[bot            ][error               ][WARNING ] Update "None" caused error "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running (409)"[0m
+[33m[bot            ][error               ][WARNING ] Update "None" caused error "Conflict: terminated by other getUpdates request; make sure that only one bot instance is running (409)"[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 0, 'b': 0}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 0, 'b': 0}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 0, 'b': 0}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 0, 'b': 0}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 0, 'b': 0}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 0, 'b': 0}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 0, 'b': 0}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 0, 'b': 0}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 0, 'b': 0}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 0, 'b': 0}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 0, 'b': 0}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 0, 'b': 0}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 1, 'b': 1}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 2, 'b': 2}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 3, 'b': 3}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 4, 'b': 4}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 5, 'b': 5}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 6, 'b': 6}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 7, 'b': 7}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 8, 'b': 8}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 9, 'b': 9}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 10, 'b': 10}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 11, 'b': 11}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 12, 'b': 12}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 13, 'b': 13}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 14, 'b': 14}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 15, 'b': 15}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 16, 'b': 16}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 17, 'b': 17}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 18, 'b': 18}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 19, 'b': 19}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 20, 'b': 20}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 21, 'b': 21}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 22, 'b': 22}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 23, 'b': 23}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 24, 'b': 24}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 25, 'b': 25}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 26, 'b': 26}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 27, 'b': 27}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 28, 'b': 28}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 29, 'b': 29}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 30, 'b': 30}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 31, 'b': 31}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 32, 'b': 32}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 33, 'b': 33}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 34, 'b': 34}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 35, 'b': 35}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 36, 'b': 36}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 37, 'b': 37}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 38, 'b': 38}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 39, 'b': 39}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 40, 'b': 40}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 41, 'b': 41}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 42, 'b': 42}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 43, 'b': 43}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 44, 'b': 44}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 45, 'b': 45}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 46, 'b': 46}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 47, 'b': 47}[0m
+[32m[bot            ][testPost            ][INFO    ] {'w': 48, 'b': 48}[0m
